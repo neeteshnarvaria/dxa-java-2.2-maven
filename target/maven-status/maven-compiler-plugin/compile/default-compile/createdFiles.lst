@@ -1,0 +1,4 @@
+com\sdl\tridiondxa\WebAppInitializer.class
+com\sdl\tridiondxa\controller\AdminController.class
+com\sdl\tridiondxa\SpringInitializer.class
+com\sdl\tridiondxa\service\AdminService.class
